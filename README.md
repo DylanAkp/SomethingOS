@@ -1,3 +1,5 @@
+# 🚧 This repository is just a placeholder, See SomethingOS [here](https://github.com/SomethingOS)
+
 # SomethingOS
 
 ![banner](https://raw.githubusercontent.com/SomethingOS/.github/main/illustrations/14.0/SomethingOS.png)
@@ -26,4 +28,4 @@ Like a asteroid or a minor planet orbiting around AOSPA
 More to come..
 
 
-# See SomethingOS [here](https://github.com/SomethingOS)
+
