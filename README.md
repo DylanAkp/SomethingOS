@@ -1,4 +1,4 @@
-# 🚧 This repository is just a placeholder, See SomethingOS [here](https://github.com/SomethingOS)
+## 🚧 This repository is just a placeholder, See SomethingOS [here](https://github.com/SomethingOS)
 
 # SomethingOS
 
