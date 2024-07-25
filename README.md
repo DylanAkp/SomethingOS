@@ -1,5 +1,5 @@
 ### 🚧 This repository is just a placeholder
-[SomethingOS sources](https://github.com/SomethingOS)
+[SomethingOS Sources](https://github.com/SomethingOS)\
 [SomethingOS Website](https://somethingos.com)
 
 # SomethingOS
