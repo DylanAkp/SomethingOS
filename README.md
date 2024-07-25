@@ -1,4 +1,6 @@
-### 🚧 This repository is just a placeholder, See SomethingOS [here](https://github.com/SomethingOS)
+### 🚧 This repository is just a placeholder
+[SomethingOS sources](https://github.com/SomethingOS)
+[SomethingOS Website](https://somethingos.com)
 
 # SomethingOS
 ![SourceForge Downloads](https://img.shields.io/sourceforge/dt/somethingos)
