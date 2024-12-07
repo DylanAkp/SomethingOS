@@ -1,6 +1,6 @@
 ### 🚧 This repository is just a placeholder
 [SomethingOS Sources](https://github.com/SomethingOS)\
-[SomethingOS Website](https://somethingos.com)
+[SomethingOS Website](https://somethingos.dylanakp.dev)
 
 # SomethingOS
 ![SourceForge Downloads](https://img.shields.io/sourceforge/dt/somethingos)
